@@ -1,0 +1,6 @@
+#忽略根目录下node_modules文件夹中的所有文件
+/node_modules/*
+#忽略所有.class文件
+*.class
+#不要忽略根目录下bin文件夹中.java文件
+!/bin/*.java
