@@ -1,0 +1,1 @@
+document.getElementById("div1").innerHTML="666666666666";
